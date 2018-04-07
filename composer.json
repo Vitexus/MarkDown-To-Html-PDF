@@ -1,0 +1,15 @@
+{
+    "name": "vendor/markdown2-html-p-d-f",
+    "description": "Description of project Markdown2HtmlPDF.",
+    "authors": [
+        {
+            "name": "vitex",
+            "email": "your@email.here"
+        }
+    ],
+    "require": {
+        "vitexsoftware/ease-framework": "dev-master",
+        "league/commonmark": "dev-master",
+        "dompdf/dompdf": "dev-master"
+    }
+}
